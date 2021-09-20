@@ -1,0 +1,35 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.home-child {
+    text-decoration: none;
+}
+
+.find-out{
+    font-size: 20px;
+}
+
+.image-items {
+    position: relative;
+    text-align: center;
+   
+}
+
+.image-item {
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%)
+}
+.child-img-text{
+    text-decoration: none;
+    color: white;
+}
+.child-img-text:hover{
+    color: white;
+}
